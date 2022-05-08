@@ -1,1 +1,2 @@
 # Reva-Feedback
+Reva Feedback Management System is a web app that uses the AWS Relational Database Services(RDS) to store the feedback and ratings submitted by the users. Amazon Relational Database Service is a fully managed, open source cloud database service that allow users to easily operate and scale their database. The web app is built using the flask library where we have used HTML and CSS for designing, MYSql for database management and python for the back end technologies.
